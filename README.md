@@ -12,7 +12,7 @@ I'm a passionate developer with a keen interest in WPF based App developement, W
 Here are some of the technologies and tools I work with:
 
 - **Languages:** C, C++, C#, typescript
-- **Frameworks:** Angular, .NET
+- **Frameworks:** Angular(beginner), .NET Framework[WPF, WCF, ASP.NET]
 - **Tools:** TFS, dottrace, dotmemory, WinDBG
 
 
